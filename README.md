@@ -1,2 +1,2 @@
-# cv
-Сайт визитка HTML
+# cv_test
+Сайт-визика на HTML + CSS + JS
